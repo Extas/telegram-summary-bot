@@ -17,7 +17,8 @@
     "wrangler": "^3.60.3"
   },
   "dependencies": {
-    "@codebam/cf-workers-telegram-bot": "^7.27.0",
+    "@google/genai": "^1.6.0",
+    "grammy": "^1.36.3",
     "openai": "^4.96.2",
     "telegramify-markdown": "^1.2.2"
   },
